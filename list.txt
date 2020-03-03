@@ -1,4 +1,11 @@
+FRUIT
 apple
 strawberry
 banana
 pear tree
+
+MEAT
+
+HOUSEHOLD
+
+PETS
