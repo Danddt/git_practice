@@ -5,6 +5,8 @@ banana
 pear tree
 
 MEAT
+saussages
+mince
 
 HOUSEHOLD
 
