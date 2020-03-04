@@ -9,6 +9,12 @@ saussages
 mince
 
 DAIRY
+milk 
+eggs
+yougurt
+butter
+cheese
+
 
 HOUSEHOLD
 
