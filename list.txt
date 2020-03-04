@@ -9,11 +9,11 @@ saussages
 mince
 
 DAIRY
-cat food
-fish food
-dog food
 
 HOUSEHOLD
 
 
 PETS
+cat food
+fish food
+dog food
