@@ -7,7 +7,8 @@ pear tree
 MEAT
 saussages
 mince
-
+bacon
+chicken
 DAIRY
 
 HOUSEHOLD
